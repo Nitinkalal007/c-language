@@ -10,7 +10,7 @@ int main (){
 fahrenheit=(9.0/5.0)*celsius+32;
 
 // output
-printf("temperature in fahrenheit:%.2f      \n",fahrenheit);
+printf("temperature in fahrenheit:%.2f\n",fahrenheit);
 
  return 0;
 
